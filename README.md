@@ -25,4 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desenvolvendo um site gerador de frases, voltado ao estilo de vida minimalista. [Clique aqui para acessar!!!]()
+Desenvolvendo um site gerador de frases, voltado ao estilo de vida minimalista. [Clique aqui para acessar!!!](https://site-minimalistico-reflexao-minimalista.vercel.app/)
